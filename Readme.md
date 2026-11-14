@@ -1,4 +1,4 @@
-﻿# Clip Monster Releases
+﻿# Clip Monster Releases 0.1.2
 
 ![Clip Monster Logo](./ClipMonsterLogo.jpg){style="width:420px"}
 
