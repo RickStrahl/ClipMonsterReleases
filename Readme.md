@@ -1,4 +1,4 @@
-﻿# Clip Monster Release v0.1.3
+# Clip Monster Release v0.1.3
 
 <img src="./ClipMonsterLogo.jpg" width=450>
 
