@@ -1,8 +1,8 @@
-﻿# Clip Monster Releases 0.1.2
+﻿# Clip Monster Release v0.1.3
 
-![Clip Monster Logo](./ClipMonsterLogo.jpg){style="width:420px"}
+<img src="./ClipMonsterLogo.jpg" width=450>
 
-This repository holds the binary releases of Markdown Monster. This repository is used for historic storage of releases.
+This repository holds the binary Windows releases of Clip Monster. This repository is used for historic storage of releases.
 
 For more info on Markdown Monster please see:
 
