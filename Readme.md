@@ -1,4 +1,4 @@
-# Clip Monster Release v0.1.5
+# Clip Monster Release v0.1.6
 
 <img src="./ClipMonsterLogo.jpg" width=450>
 
@@ -10,8 +10,8 @@ For more info on Markdown Monster please see:
 
 ## Current Release
 
-* [Windows x64](https://github.com/RickStrahl/ClipMonsterReleases/releases/download/0.1.5/ClipMonster-0.1.5-win-x64-Setup.exe)
-* [Windows arm64](https://github.com/RickStrahl/ClipMonsterReleases/releases/download/0.1.5/ClipMonster-0.1.5-win-arm64-Setup.exe)
+* [Windows x64](https://github.com/RickStrahl/ClipMonsterReleases/releases/download/0.1.6/ClipMonster-0.1.6-win-x64-Setup.exe)
+* [Windows arm64](https://github.com/RickStrahl/ClipMonsterReleases/releases/download/0.1.6/ClipMonster-0.1.6-win-arm64-Setup.exe)
 
 Not available yet:
 
